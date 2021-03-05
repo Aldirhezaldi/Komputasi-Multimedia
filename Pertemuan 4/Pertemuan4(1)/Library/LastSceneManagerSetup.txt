@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/MoveStateToState.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/3FrameAnimation.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/pertemuan4(1).unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
